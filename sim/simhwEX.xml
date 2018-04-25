@@ -1,0 +1,6 @@
+<simhw> 
+   <frametype type="2"></frametype>
+   <card id="Card1" type="2" slot="1">CardType_Input_4_HDMI_DP</card>
+   <card id="Card2" type="23" slot="2">CardType_Output_4_DP</card>
+</simhw>
+

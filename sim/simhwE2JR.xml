@@ -1,0 +1,15 @@
+<simhw> 
+   <frametype type="0"></frametype>
+   <card id="thisissometextforid6" type="1" slot="6">CardType_Input_4_SDI</card>
+   <card id="thisissometextforid7" type="2" slot="7">CardType_Input_4_HDMI_DP</card>
+   <card id="thisissometextforid8" type="2" slot="8">CardType_Input_4_HDMI_DP</card>
+   <card id="thisissometextforid9" type="2" slot="9">CardType_Input_4_HDMI_DP</card>
+   <card id="CardID4" type="22" slot="11">CardType_Output_4_HDMI</card>
+   <card id="CardID415" type="21" slot="12">CardType_Output_4_SDI</card>
+   <card id="CardID15" type="40" slot="13">CardType_Output_Multiviewer</card>
+   <card id="thisissometextforid501" type="50" slot="14">CardType_VPU</card>
+   <card id="thisissometextforid502" type="50" slot="15">CardType_VPU</card>
+   <card id="thisissometextforid503" type="50" slot="16">CardType_VPU</card>
+   <card id="thisissometextforid504" type="50" slot="17">CardType_VPU</card>
+</simhw>
+
